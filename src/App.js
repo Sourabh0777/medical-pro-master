@@ -16,7 +16,7 @@ import Getalluser from "./components/admin_dashboard/Getalluser";
 import Showallhospital from "./components/admin_dashboard/Showallhospital";
 import Addhospital from "./components/admin_dashboard/Addhospital";
 import HospitalDetail from "./components/dashboard/hospital";
-import SummaryReport from "./components/dashboard/summaryreport";
+import SummaryReport from "./components/dashboard/summaryreport"
 
 
 
